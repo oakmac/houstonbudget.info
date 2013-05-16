@@ -1,0 +1,941 @@
+Acct,Description,Category
+500010,Salary Base Pay - Civilian,Personnel Services
+500015,HOPE Union Business Leave,Personnel Services
+500020,Salary Base Pay - Classified,Personnel Services
+500030,Salary Part Time - Civilian,Personnel Services
+500040,Salary Assignment Pay - Classified,Personnel Services
+500045,Patrol Incentive Pay,Personnel Services
+500050,Sal-Edu/Incen-Classfd,Personnel Services
+500060,Overtime - Civilian,Personnel Services
+500070,Overtime - Classified,Personnel Services
+500080,OT-Cls Med Mgmt,Personnel Services
+500090,Premium Pay - Civilian,Personnel Services
+500100,Premium Pay - Classified,Personnel Services
+500110,Bilingual Pay - Civilian,Personnel Services
+500120,Bilingual Pay - Classified,Personnel Services
+500130,Equipment Allowance-Classified,Personnel Services
+500140,Equipment Allowance - Civilian,Personnel Services
+500150,Shift Differential Pay-Classified,Personnel Services
+500160,Training Incent.-Classified,Personnel Services
+500170,Weekend Prem Pay-Classified,Personnel Services
+500180,Temporary Employees,Personnel Services
+500190,Temporary Higher Class Pay,Personnel Services
+500200,Residency Incentive Payment,Personnel Services
+500210,Pay for Performance-Municipal,Personnel Services
+500230,Temp Adj to CMC Deductions Returns,Personnel Services
+500240,HOPE Community Service Usage,Personnel Services
+500250,HOPE Union Business Usage,Personnel Services
+501010,Clothing Allowance - Civilian,Personnel Services
+501020,Clothing Allowance - Classified,Personnel Services
+501030,Earned Leave - Civilian,Personnel Services
+501040,Earned Leave - Classified,Personnel Services
+501050,Employee Awards,Personnel Services
+501060,Moving Expenses,Personnel Services
+501070,Pension - Civilian,Personnel Services
+501080,Pension - Fire,Personnel Services
+501090,Pension - Police,Personnel Services
+501100,Phase Down Classified,Personnel Services
+501110,Strategic Staffing-Classified,Personnel Services
+501120,Termination Pay - Civilian,Personnel Services
+501130,Termination Pay - Classified,Personnel Services
+501140,Third Party Disability B-Classified,Personnel Services
+501150,Trainees for Classified Service - Cadets,Personnel Services
+501160,Vehicle Allowance - Civilian,Personnel Services
+501170,Vehicle Allowance - Classified,Personnel Services
+502010,FICA - Civilian,Personnel Services
+502020,FICA - Classified,Personnel Services
+503010,Health Ins-Act Civilian,Personnel Services
+503015,Basic Life Insurance - Active Civilian,Personnel Services
+503020,Health Ins.Act-Classified,Personnel Services
+503025,Basic Life Insurance - Active Classified,Personnel Services
+503040,Health/Life Ins.Ret-Classified,Personnel Services
+503050,Health/Life Insurance - Retiree Civilian,Personnel Services
+503060,Long Term Disability-Civilian,Personnel Services
+503061,Long Term Disability-Classified,Personnel Services
+503070,Municipal Pension-Other Classified,Personnel Services
+503080,Workers Compensation-Classified-Admin,Personnel Services
+503090,Workers Compensation-Civilian-Admin,Personnel Services
+503100,Workers Compensation-Civilian-Claim,Personnel Services
+503110,Workers Compensation-Classified-Claim,Personnel Services
+504010,Pension - GASB 27 Pension Accrual,Personnel Services
+504020,Compensation Contingency,Personnel Services
+504025,Personnel Consolidation,Personnel Services
+504030,Unemployment Claims - Administration,Personnel Services
+504031,Unemployment Claims,Personnel Services
+504040,Res For Police Enhanc.-Classified,Personnel Services
+504050,Health Benefits Contingency,Personnel Services
+504060,Health Benefits-Fire,Personnel Services
+511010,Chemical Gases & Special Fluids,Supplies
+511015,Cleaning & Sanitary Supplies,Supplies
+511020,Construction Materials,Supplies
+511025,Electrical Hardware & Parts,Supplies
+511030,Mechanical Hardware & Parts,Supplies
+511035,Meters Hydrants & Plumbing Supplies,Supplies
+511040,Audiovisual Supplies,Supplies
+511045,Computer Supplies,Supplies
+511050,Paper & Printing Supplies,Supplies
+511055,Publications & Printed Materials,Supplies
+511060,Postage,Supplies
+511070,Miscellaneous Office Supplies ,Supplies
+511075,Library Circulation Supplies,Supplies
+511080,General Laboratory Supplies,Supplies
+511085,Drugs & Medical Chemicals,Supplies
+511090,Medical & Surgical Supplies,Supplies
+511095,Small Technical & Scientific Equipment,Supplies
+511100,Veterinary & Animal Supplies,Supplies
+511105,Trained Police Animals,Supplies
+511110,Fuel ,Supplies
+511115,Vehicle Repair & Maintenance Supplies,Supplies
+511120,Clothing,Supplies
+511125,Food Supplies,Supplies
+511130,Weapons Munitions & Supplies,Supplies
+511135,Recreational Supplies,Supplies
+511140,Landscaping & Gardening Supplies,Supplies
+511145,Small Tools & Minor Equipment,Supplies
+511150,Miscellaneous Parts & Supplies,Supplies
+511155,Inventory Sales,Supplies
+511160,Protective Gear,Supplies
+511164,Breathing Apparatus Repair Supplies,Supplies
+511165,Fire Fighting Equipment,Supplies
+520100,Temporary Personnel Services,Other Services and Charges
+520101,Janitorial Services ,Other Services and Charges
+520102,Security Services,Other Services and Charges
+520103,Subrecipient Contract Services,Other Services and Charges
+520104,Claims Payment Services,Other Services and Charges
+520105,Accounting & Auditing Services,Other Services and Charges
+520106,Architectural Services,Other Services and Charges
+520107,Computer Info/Contr,Other Services and Charges
+520108,Information Resource Services,Other Services and Charges
+520109,Medical Dental & Laboratory Services,Other Services and Charges
+520110,Management Consulting Services,Other Services and Charges
+520111,Real Estate Services,Other Services and Charges
+520112,Banking Services,Other Services and Charges
+520113,Photographic Services,Other Services and Charges
+520114,Miscellaneous Support Services,Other Services and Charges
+520115,Real Estate Lease/Office Rental,Other Services and Charges
+520116,Parking Services Contract,Other Services and Charges
+520118,Refuse Disposal  ,Other Services and Charges
+520119,Computer Equipment/Software Maintenance,Other Services and Charges
+520120,Communications Equipment Services ,Other Services and Charges
+520121,IT Application Svcs,Other Services and Charges
+520122,Office Equipment Services,Other Services and Charges
+520123,Vehicle & Motor Equipment Services,Other Services and Charges
+520124,Other Equipment Services,Other Services and Charges
+520125,Demolition Services,Other Services and Charges
+520126,Construction Site Work Services,Other Services and Charges
+520127,Structural Construction Work Services,Other Services and Charges
+520128,Other Construction Work Services,Other Services and Charges
+520129,Sewer Authority Contracts,Other Services and Charges
+520130,Water Authority Contracts,Other Services and Charges
+520131,Water Authority Contracts Debt Service,Other Services and Charges
+520132,Contracts/Sponsorships,Other Services and Charges
+520133,Private Investigative Services ,Other Services and Charges
+520134,Houston Area Water Council Debt Service,Other Services and Charges
+520135,Claims Adjustment Services,Other Services and Charges
+520136,Billing & Collection Services,Other Services and Charges
+520137,C&E Parking Contract Svcs,Other Services and Charges
+520138,Zoo Contract,Other Services and Charges
+520139,Motor Pool Charges,Other Services and Charges
+520140,Civic Arts,Other Services and Charges
+520141,Engineering Services,Other Services and Charges
+520142,Classified C.S. Arbitration Cost ,Other Services and Charges
+520143,Credit/Bank Card Services,Other Services and Charges
+520144,Limited Purpose Annexation Payment,Other Services and Charges
+520145,Criminal Intelligence Services,Other Services and Charges
+520146,Contract Instructor Sports,Other Services and Charges
+520147,Management Initiative Savings,Other Services and Charges
+520148,Project Completion Bonus,Other Services and Charges
+520150,GT EZ Tag Fees,Other Services and Charges
+520151,Parking EZ Tag Fees,Other Services and Charges
+520152,Telemetry Services,Other Services and Charges
+520153,Protective Gear Cleaning Services,Other Services and Charges
+520154,CIP Capitalized Interest,Other Services and Charges
+520155,Construction Management - External Contr,Other Services and Charges
+520156,City Hall Fellows,Other Services and Charges
+520157,Computer Software Maintenance Services,Other Services and Charges
+520158,Computer Equipment Maintenance Services,Other Services and Charges
+520159,Non-Sub-Recipient Grant Contract,Other Services and Charges
+520160,CIP-Software,Other Services and Charges
+520161,Telehealth Nurse Program,Other Services and Charges
+520162,Baylor College of Medicine Psy Svcs,Other Services and Charges
+520170,Generator Equipment Services,Other Services and Charges
+520200,HCTRA Parking Fees,Other Services and Charges
+520205,HCTRA Ground Transportation Fees,Other Services and Charges
+520250,CIP Expense,Other Services and Charges
+520510,Mail/Delivery Services,Other Services and Charges
+520515,Print Shop Services,Other Services and Charges
+520520,Printing & Reproduction Services,Other Services and Charges
+520605,Advertising Services,Other Services and Charges
+520705,Insurance Fees,Other Services and Charges
+520710,State/Federal Inspection Fees,Other Services and Charges
+520715,Arbitrage Expenses,Other Services and Charges
+520720,Fines,Other Services and Charges
+520725,Assessments - Other Governments,Other Services and Charges
+520730,Tax Appraisal Fees,Other Services and Charges
+520735,Tax Refunds,Other Services and Charges
+520736,Ch380 - Mixed Beverage Tax Refund,Other Services and Charges
+520737,Ch380 - Sales Tax Refund,Other Services and Charges
+520738,Ch380 - Mixed Beverage Tax Refund,Other Services and Charges
+520740,Document Recording/Filing Fees,Other Services and Charges
+520745,Third Party Collection Fees,Other Services and Charges
+520750,Elections,Other Services and Charges
+520755,Contingency,Other Services and Charges
+520760,Contributions  ,Other Services and Charges
+520763,Intergovernmental Contribution - 1115 Waiver,Other Services and Charges
+520765,Membership & Professional Fees,Other Services and Charges
+520770,Insurance Administration Fees,Other Services and Charges
+520771,Cigna - Active Ins Administration Fees,Other Services and Charges
+520772,Cigna - Reti <65  Ins Administration Fees,Other Services and Charges
+520773,Cigna - Reti >65 No Med Ins Admin Fees,Other Services and Charges
+520774,Cigna - Reti >65 with Med Ins Admin Fees,Other Services and Charges
+520780,Juror Compensation,Other Services and Charges
+520805,Education & Training,Other Services and Charges
+520806,Paramedic/EMT Continuing Edu,Other Services and Charges
+520807,Initial/Recert EMS Training,Other Services and Charges
+520810,Human Relations Training,Other Services and Charges
+520815,Tuition Reimbursement,Other Services and Charges
+520820,Internship Program,Other Services and Charges
+520900,CIP-Capital Equipment Acquisition,Other Services and Charges
+520905,Travel - Training Related,Other Services and Charges
+520910,Travel - Non-Training Related,Other Services and Charges
+521205,Short Term Compensated Absence Expense,Other Services and Charges
+521210,Long Term Compensated Absence Expense,Other Services and Charges
+521305,Indirect Cost Recovery Payment,Other Services and Charges
+521306,PWE Allocated Cost,Other Services and Charges
+521310,Small Diff. -GR/IR,Other Services and Charges
+521315,Reimbursement for Energy Leakage Testing,Other Services and Charges
+521316,Water Conservation Rebate,Other Services and Charges
+521405,Building Maintenance Services,Other Services and Charges
+521410,Sewer Services,Other Services and Charges
+521415,Land and Grounds Maintenance,Other Services and Charges
+521420,Infrastructure Maintenance Service,Other Services and Charges
+521425,Coastal Water Authority Maintenance,Other Services and Charges
+521430,Katrina Support Services,Other Services and Charges
+521435,Water Services,Other Services and Charges
+521440,Steam/Chilled Water Services,Other Services and Charges
+521445,Houston Area Water Council Maintenance,Other Services and Charges
+521505,Electricity,Other Services and Charges
+521510,Natural Gas,Other Services and Charges
+521515,Electricity Fran Fee Exp,Other Services and Charges
+521605,Data Services,Other Services and Charges
+521610,Voice Services,Other Services and Charges
+521615,Radio Communications,Other Services and Charges
+521620,Voice Equipment,Other Services and Charges
+521625,Voice Labor,Other Services and Charges
+521630,GIS Revolving Fund Services,Other Services and Charges
+521635,Voice Services -Wireless,Other Services and Charges
+521705,Vehicle/Equipment Rental/Lease,Other Services and Charges
+521715,Office Equipment Rental,Other Services and Charges
+521720,Computer Equipment Rental,Other Services and Charges
+521725,Other Rental,Other Services and Charges
+521730,Parking Space Rental,Other Services and Charges
+521731,Hobby Parking Space Rental,Other Services and Charges
+521905,Legal Services,Other Services and Charges
+521910,Legal Svcs - Crt Report,Other Services and Charges
+521915,Legal Svcs - Atty Fee,Other Services and Charges
+521920,Legal Svcs -Med Svcs,Other Services and Charges
+521925,Legal Svcs -Ex Wit,Other Services and Charges
+521930,Contingency/Reserve,Debt Service and Other Uses
+521935,Legal Svcs -Claims,Other Services and Charges
+521940,Legal Svcs -Judgemt,Other Services and Charges
+521945,Legal Svcs -Settleme,Other Services and Charges
+521950,Legal Svcs -Doc Rec,Other Services and Charges
+522205,Metro Commuter Passes,Other Services and Charges
+522305,Freight Charges,Other Services and Charges
+522405,Management Savings,Other Services and Charges
+522410,Cashier Shortages,Other Services and Charges
+522415,Banking Over/Short,Other Services and Charges
+522420,Petty Cash/Change Special Fund,Other Services and Charges
+522425,Miscellaneous Pool Expense/Expenditures,Other Services and Charges
+522427,Forensics Services SAFE Kits,Other Services and Charges
+522430,Miscellaneous Other Services & Charges,Other Services and Charges
+522431,EMS Equipment Maint,Other Services and Charges
+522432,Life Safety Equipment Maintenance,Other Services and Charges
+522435,Interest Charges Past Due Accounts,Other Services and Charges
+522440,Discount Lost,Other Services and Charges
+522445,Wellness Initiative,Other Services and Charges
+522505,Employee Premiums,Other Services and Charges
+522510,Retiree Premiums,Other Services and Charges
+522515,Medicare Health Plan Alternative,Other Services and Charges
+522520,Stop loss Premiums,Other Services and Charges
+522525,Cigna - Active Individual Stop Loss Fees,Other Services and Charges
+522526,Cigna - Retiree <65 Indv Stop Loss Fees,Other Services and Charges
+522527,Cigna - Retiree >65 No Med Indv Stop Loss Fees,Other Services and Charges
+522528,Cigna - Retiree >65 with Med Indv Stop Loss Fees,Other Services and Charges
+522530,Cigna - Active Aggregate Stop Loss Fees,Other Services and Charges
+522531,Cigna - Retiree<65 Aggregate Stop Loss Fees,Other Services and Charges
+522532,Cigna - Retiree>65 No Med Aggr Stop Loss Fees,Other Services and Charges
+522533,Cigna - Retiree>65 with Med Aggr Stop Loss Fees,Other Services and Charges
+522535,Cigna - Retiree>65 with Medi Hlth Care Acct,Other Services and Charges
+522536,Cigna - Retiree<65 Health Care Acct,Other Services and Charges
+522537,Cigna - Active Health Care Account,Other Services and Charges
+522538,Cigna - Retiree>65 No Medi Hlth Care Acct,Other Services and Charges
+522605,Active Employee Incurred Claims,Other Services and Charges
+522610,Retiree Insurred Claims,Other Services and Charges
+522615,"Retiree ""A"" Medical Claims",Other Services and Charges
+522620,Claims & Judgments,Other Services and Charges
+522625,Cigna - Active Medical Claims Expense,Other Services and Charges
+522630,Cigna - Retiree<65 Medical Claims Expense,Other Services and Charges
+522635,Cigna - Retiree>65 No Med Medical Claims Expense,Other Services and Charges
+522640,Cigna - Retiree>65 with Med Medical Claims,Other Services and Charges
+522705,Interfund Environmental Inspection,Other Services and Charges
+522710,Interfund Utility Cut Repairs,Other Services and Charges
+522715,Interfund Electrical Maintenance  ,Other Services and Charges
+522720,Interfund Payroll Services,Other Services and Charges
+522721,Interfund HR Client Services,Other Services and Charges
+522722,KRONOS Service Chargeback,Other Services and Charges
+522723,Drainage Fee Service Chargeback,Other Services and Charges
+522725,Intfd Traf Signal Instal,Other Services and Charges
+522730,Interfund Engineering Services,Other Services and Charges
+522735,Interfund Communication Equipment Repair,Other Services and Charges
+522740,Interfund Police Service,Other Services and Charges
+522745,Interfund Computer System Development,Other Services and Charges
+522750,Interfund Land/Property Appraisal Service,Other Services and Charges
+522755,Interfund Fire Protection Service,Other Services and Charges
+522760,Interfund Billing & Collection Service,Other Services and Charges
+522765,Interfund Legal Services,Other Services and Charges
+522770,Interfund Relocation Services,Other Services and Charges
+522775,Interfund Utility Services,Other Services and Charges
+522780,Interfund Photo Copy Services,Other Services and Charges
+522785,Interfund Inventory,Other Services and Charges
+522790,Interfund Inventory Adjustments,Other Services and Charges
+522795,Other Interfund Services,Other Services and Charges
+522800,Cost of Goods Sold,Other Services and Charges
+522805,Interfund Network Services,Other Services and Charges
+522810,Interfund Carpentry & Painting,Other Services and Charges
+522815,Interfund Defensive Driving Service,Other Services and Charges
+522820,Interfund EB Cape Training,Other Services and Charges
+522825,3-1-1 Services,Other Services and Charges
+522830,Interfund GIS Services,Other Services and Charges
+522835,Scrapping of Inventory for Disposal,Other Services and Charges
+522840,Interfund Permit Center Rent Chargeback,Other Services and Charges
+522845,Interfund Vehicle Services,Other Services and Charges
+522910,Indirect Cost - Expenses,Other Services and Charges
+523001,Abuse Enforcement Cost,Other Services and Charges
+523002,Recycling Cost,Other Services and Charges
+523003,Compost Cost,Other Services and Charges
+523004,Depository Cost,Other Services and Charges
+523005,Administrative Billing Cost,Other Services and Charges
+523006,Street Lighting Cost,Other Services and Charges
+529999,Maintenance Renewal and Replacement,Other Services and Charges
+531005,Bad Debt Expense,Debt Service and Other Uses
+531010,Amortization Expense,Debt Service and Other Uses
+531015,PIB Prin Retirement,Debt Service and Other Uses
+531020,Annex Bnds Prin Retr,Debt Service and Other Uses
+531025,Bond Surety Premium Expense,Debt Service and Other Uses
+531030,Cert of Ob Prin Retire,Debt Service and Other Uses
+531035,Promissory note Principal,Debt Service and Other Uses
+531040,Other Principal Retirement,Debt Service and Other Uses
+531045,Swap Interest Payments,Debt Service and Other Uses
+531050,Public Improvement Bond Interest,Debt Service and Other Uses
+531055,Annexed District Bonds Interest,Debt Service and Other Uses
+531060,Contract Tax Obligation Interest,Debt Service and Other Uses
+531065,Revenue Bonds Interest,Debt Service and Other Uses
+531070,Interest Short-Term Commercial Paper,Debt Service and Other Uses
+531075,Tax & Revenue Anticipation Note Interest,Debt Service and Other Uses
+531080,Certificates of Obligation Interest,Debt Service and Other Uses
+531085,Other Interest,Debt Service and Other Uses
+531090,Arbitrage Rebate Payments,Debt Service and Other Uses
+531095,Promissory Note Interest,Debt Service and Other Uses
+531100,Debt Admin Prof Svcs,Debt Service and Other Uses
+531105,Public Improvement Bonds - Agency Fees,Debt Service and Other Uses
+531110,Commercial Paper Agent Fees,Debt Service and Other Uses
+531115,Revenue Bonds Agency Fees,Debt Service and Other Uses
+531120,Loss on Valuation/Investment,Debt Service and Other Uses
+531125,Escrow Deposit - Bond Refunding,Debt Service and Other Uses
+531130,Interest Apportionment Transfer Out,Debt Service and Other Uses
+531135,Interfund Transfers,Debt Service and Other Uses
+531140,Transfers for Principal,Debt Service and Other Uses
+531145,Transfers for Interest,Debt Service and Other Uses
+531150,Discretionary Debt,Debt Service and Other Uses
+531155,Cost of Iss Exp-GO,Debt Service and Other Uses
+531160,Issuance Expense Cost-Commercial Paper,Other Services and Charges
+531165,Revenue Bonds Principle Retirement,Debt Service and Other Uses
+531170,Rev Bonds COI,Debt Service and Other Uses
+531175,Allen's Creek & Wallisville Principal,Debt Service and Other Uses
+531180,Allen's Creek & Wallisville Interest,Debt Service and Other Uses
+532005,Transfers to General Fund,Debt Service and Other Uses
+532010,Transfers to Water & Sewer,Debt Service and Other Uses
+532015,Transfers to Convention & Entertainment,Debt Service and Other Uses
+532020,Transfers to Capital Projects,Debt Service and Other Uses
+532025,Transfers to Special Revenues,Debt Service and Other Uses
+532030,Transfers to Trans Debt Service  ,Debt Service and Other Uses
+532035,Transf-Spec Nonrecr,Debt Service and Other Uses
+532040,Transfers to Component Unit,Debt Service and Other Uses
+532045,Transfers to Low Income Housing,Debt Service and Other Uses
+532050,Trans to PIB Bonds Debt Service,Debt Service and Other Uses
+532055,Transfers to Certification of Obligation,Debt Service and Other Uses
+532060,Transf Claims/Judg DS,Debt Service and Other Uses
+532065,General Debt Service Fund Intrafund Transf,Debt Service and Other Uses
+532070,Transfer to Consolidated Fund,Debt Service and Other Uses
+532075,Unappropriated Expense Transfers Out,Debt Service and Other Uses
+532080,System Debt Service Transfers,Debt Service and Other Uses
+532085,Renewal & Replacement Transfer,Debt Service and Other Uses
+532090,System Any Lawful Purpose Transfer,Debt Service and Other Uses
+532095,Transfer to Stormwater Fund ,Debt Service and Other Uses
+532100,Trans to CUS Operating,Debt Service and Other Uses
+532105,Transf to CUS Gen,Debt Service and Other Uses
+532110,System Improvement Transfers,Debt Service and Other Uses
+532115,System Operating Reserve,Debt Service and Other Uses
+532120,Transfer to Fleet/Eq,Debt Service and Other Uses
+532200,Transfer to Fleet/Equipment Int.Svc. fund,Debt Service and Other Uses
+532222,Transfer to Public Safety,Debt Service and Other Uses
+550990,AMS Fix Assts Revers,Non-Capital Equipment
+551005,Fixed Assets Restatement,Non-Capital Equipment
+551010,Non-Capital Office Furniture & Equipment,Non-Capital Equipment
+551015,Non-Capital Computer Equipment,Non-Capital Equipment
+551020,Non-Capital Communication Equipment,Non-Capital Equipment
+551025,Non-Capital Scientific/Medical Equipment,Non-Capital Equipment
+551030,Non-Capital Machinery & Equipment,Non-Capital Equipment
+551035,Non-Capital Library books,Non-Capital Equipment
+551040,Non-Capital Other,Non-Capital Equipment
+551045,Non-Capital Vehicles/Rolling Stock,Non-Capital Equipment
+551810,Non-Cap Controlled Equipment - Bk01,Non-Capital Equipment
+560010,Land,Equipment
+560110,Right of Way,Equipment
+560120,Capital Exp-Building and Bldg Improvement,Equipment
+560130,Building Associated with Capital Lease,Equipment
+560140,Improvements other than Buildings,Equipment
+560210,Furniture Fixtures and Equipment,Equipment
+560220,Vehicles,Equipment
+560230,Computer HW and Developed SW,Equipment
+560240,Communication Equipment,Equipment
+560260,Infrastructure,Equipment
+560270,Rights,Equipment
+560980,Construction in Progress,Equipment
+560990,AMS Fixed Asset Reversal,Equipment
+561010,Depr - Land,Equipment
+561110,Depr - Right of Way,Equipment
+561120,Depr - Building and Bldg Improvements,Equipment
+561140,Depr - Improvements other than Buildings,Equipment
+561210,Depr - Furniture Fixtures and Equipment,Equipment
+561220,Depr - Vehicles,Equipment
+561230,Depr - Computer HW and Developed SW,Equipment
+561240,Depr - Communication Equipment,Equipment
+561260,Depr - Infrastructure,Equipment
+561270,Depr - Rights,Equipment
+561980,Depr - Contruction in Progress,Equipment
+571110,GASB-Depr - Right of Way,Non-Capital Equipment
+571120,GASB-Depr-Bldg & Imp,Non-Capital Equipment
+571140,GASB-Depr-Imprv-Oth,Non-Capital Equipment
+571210,GASB-Depr-Furn Fix,Non-Capital Equipment
+571220,GASB-Depr - Vehicles,Non-Capital Equipment
+571230,GASB-Depr - Computer HW and Developed SW,Non-Capital Equipment
+571240,GASB-Depr - Communication Equipment,Non-Capital Equipment
+571260,GASB-Depr - Infrastructure,Non-Capital Equipment
+571270,GASB-Depr - Rights,Non-Capital Equipment
+572900,Capital Contributions Out-Book 20,Non-Capital Equipment
+572999,GASB - Revenue Clearing Account,Non-Capital Equipment
+581981,Capital AUC Settlement,Non-Capital Equipment
+588999,Projection Adjustment,Projection Adjustments
+424170,Interfind HR Client Servicess,Charges for Services
+424180,Interfund KRONOS,Charges for Services
+424190,Interfund Drainage Fee,Charges for Services
+424200,Interfund Permit Center Rent,Charges for Services
+424210,Interfund Radio Parts & Labor,Charges for Services
+424215,Interfund Radio System Access,Charges for Services
+426010,Hazardous Materials Response,Charges for Services
+426020,Hazardous Materials Permit,Charges for Services
+426030,Ambulance Fees,Charges for Services
+426040,Library Service Charges,Charges for Services
+426050,Animal Control Fees,Charges for Services
+426055,External Radio Parts & Labor,Charges for Services
+426060,Clinical Fees,Charges for Services
+426070,Hotel & Motel Ordinance,Charges for Services
+426080,Day Care Service,Charges for Services
+426090,Demolition Fees,Charges for Services
+426100,Non-Resident Garbage Fee,Charges for Services
+426110,Extra Container Garbage Fee,Charges for Services
+426120,Weed Cutting Fees,Charges for Services
+426130,Dental Fees,Charges for Services
+426140,Laboratory Fees,Charges for Services
+426150,Milk Sampling Fees,Charges for Services
+426151,Passport Service Fee,Charges for Services
+426160,Oother Health Services Fees,Charges for Services
+426170,Recreation Sports & Education Program,Charges for Services
+426180,Tennis Court Fees,Charges for Services
+426190,Golf Fees,Charges for Services
+426200,Admission and User Fees,Charges for Services
+426210,Special Events Reimbursement,Charges for Services
+426220,Vehicle Storage Notification,Charges for Services
+426230,Vehicle Auction Fees,Charges for Services
+426240,Limousine Inspection Fees,Charges for Services
+426250,Platting Fees,Charges for Services
+426260,Police Services,Charges for Services
+426270,Utility District Application Review,Charges for Services
+426280,Legal Fees,Charges for Services
+426290,Other Service Charges,Charges for Services
+426300,Certified Copies Fees,Charges for Services
+426310,City Charter & Code Fees,Charges for Services
+426320,City Maps & Related Items,Charges for Services
+426330,Miscellaneous Copies Fees,Charges for Services
+426340,Public Safety Reports Fees,Charges for Services
+426350,Fire Fighting Services,Charges for Services
+426360,Reimbursement for 911 Staff,Charges for Services
+426370,Training Services,Charges for Services
+426380,Grants Contract Services,Charges for Services
+426390,Misc. Services to Other Agencies,Charges for Services
+426400,Vehicle Storage Unit,Charges for Services
+426410,Collection Fees,Charges for Services
+426420,Building Space Rental Fees,Charges for Services
+426430,Facility Rental Fees,Charges for Services
+426440,Park Facility Use Fees,Charges for Services
+426450,Park Equipment Rental Fees,Charges for Services
+426460,Municipal Services  from the TIRZ,Charges for Services
+426470,WIFI Revenues,Charges for Services
+426480,Securing/Boarding - Nuisance Abatement,Charges for Services
+426485,Visual Blight - Nuisance Abatement,Charges for Services
+426490,Alternate Method Review Fee,Charges for Services
+426495,Investigation Fee,Charges for Services
+426500,Drainage Charge Revenue,Charges for Services
+426505,Drainage Charge Adjustment,Charges for Services
+426510,Environmental Lab Services,Charges for Services
+426520,External Radio System Fees,Charges for Services
+426525,Chapter 125 - Nuisance Abatement,Charges for Services
+441010,Signatory Landings,Charges for Services
+441015,Carrier Incentive Program,Charges for Services
+441020,Aviation Fuel Revenue,Charges for Services
+441030,Aircraft Parking Revenue,Charges for Services
+442010,Concourse Security Services,Charges for Services
+442020,Flight Information Display System,Charges for Services
+442030,Terminal Space Rental Fees,Charges for Services
+442035,Terminal Space Nonair Rental Fees,Charges for Services
+442040,Cargo Building Rental Fees,Charges for Services
+442050,Hangar Rental Fees,Charges for Services
+442060,Grounds Rental Fees,Charges for Services
+442070,Other Rental Fees,Charges for Services
+443010,Temporary park Concessions,Charges for Services
+443020,Terminal Concession Agreements,Charges for Services
+443030,Terminal Operation Agreement,Charges for Services
+443040,Other Recreational Concessions,Charges for Services
+443050,Auto Rental Concessions,Charges for Services
+443060,Ground Transport Concessions,Charges for Services
+443070,Hotel Concessions,Charges for Services
+443080,Special Events Concessions,Charges for Services
+443090,Food & Drink Concessions,Charges for Services
+443100,Audio Visual Concessions,Charges for Services
+443110,Utility Concessions,Charges for Services
+443120,Photocopier Concessions,Charges for Services
+443130,Pay Phone Concessions,Charges for Services
+443140,Telephone Setup Concessions,Charges for Services
+443150,Telecommunications Revenue,Charges for Services
+443160,Vending Machine Concessions,Charges for Services
+443170,Other Concession Income,Charges for Services
+443180,Concession Penalty & Interest,Charges for Services
+443190,Retail Concessions,Charges for Services
+445010,Talp Operation Agreement,Charges for Services
+445020,Houston Aquarium Agreement Revenue,Charges for Services
+445030,Houston Arena Agreement Revenue,Charges for Services
+445040,Cultural/Convention Facility Rental,Charges for Services
+445050,Cell Tower Revenue,Charges for Services
+447010,Metered Parking Revenue,Charges for Services
+447020,Garage Parking Revenue,Charges for Services
+447021,Hobby Garage Parking Revenue,Charges for Services
+447022,Metro Passes Revenue,Charges for Services
+447030,Surface Parking Revenue,Charges for Services
+447031,Commerce Surface Lot Revenue,Charges for Services
+447032,Bolsover Surface Lot Revenue  ,Charges for Services
+447033,Commerce Street Annex Surfact Lot Revenue,Charges for Services
+447035,Washington Ave Parking Revenue,Charges for Services
+447040,Contract Parking Revenue,Charges for Services
+448010,Custom Services Fees,Charges for Services
+453010,Retail Water Sales,Charges for Services
+453012,Con Treat Wat NonGov,Charges for Services
+453013,Ret Wat Bill Adjusts,Charges for Services
+453014,Area 1&2GRPFeesNnGv,Charges for Services
+453015,Area3 GRP Fees Nngov,Charges for Services
+453020,Bulk Water Sales - Treated,Charges for Services
+453022,Con Tr Ind WatNonGov,Charges for Services
+453030,Bulk Water Sales - Untreated,Charges for Services
+453032,ConUntCWAHWY225NnGv,Charges for Services
+453033,ConUntLkHousIndNonGv,Charges for Services
+453035,ConUntSoCanIndNonGv,Charges for Services
+453036,ConUntSoCanAgriNonGv,Charges for Services
+453038,ConUntCWABportNonGov,Charges for Services
+453039,ConUntCWANWLATNonGv,Charges for Services
+453116,In City MUD Water Rebates Government,Charges for Services
+453117,Water Conservation Rebate,Charges for Services
+453118,Ground Water Certificate Credits,Charges for Services
+453120,Con Tr Bulk Wat Gov,Charges for Services
+454010,Sewer Service Revenue,Charges for Services
+454012,Sewer Bill Adjusts,Charges for Services
+454116,In City MUD Sewer Rebates Government,Charges for Services
+455010,Sewer Service Penalties,Charges for Services
+455020,Water Service Penalties,Charges for Services
+455030,Drainage Charge Penalty,Charges for Services
+456125,Fire Sprinkler Fees,Charges for Services
+456130,Water Meter Rental Fees,Charges for Services
+456135,Delinquent Reconnection Fees,Charges for Services
+456140,Tap Installation Fees,Charges for Services
+456145,Meter Installation Fees,Charges for Services
+456150,Engineering Inspection Fees,Charges for Services
+456155,Meter Testing Fees,Charges for Services
+456160,Transient Meter Relocation Fee,Charges for Services
+456165,New Customer Fees,Charges for Services
+456170,Account Record Fees,Charges for Services
+456175,Disposal Fees,Charges for Services
+456176,Recycling Revenues,Charges for Services
+456177,Composting Revenue,Charges for Services
+456178,Waste Reduction Fees,Charges for Services
+456180,Fertilizer Sales,Charges for Services
+456185,Contract Revenue from Water Authority,Charges for Services
+456190,Aband/Rerouting of Service Lines,Charges for Services
+456195,Water Connection Violation,Charges for Services
+456205,Failure to Connect Sewer,Charges for Services
+456210,Missed Appointment,Charges for Services
+456220,Tenant Notice,Charges for Services
+456225,Failure to Apply,Charges for Services
+456230,Illegal Turn On,Charges for Services
+456235,Lock Device Damage/Repair,Charges for Services
+456240,Submeter Application,Charges for Services
+456245,Evaporation Credit Processing Fee,Charges for Services
+456250,Sewage Disposal,Charges for Services
+456253,Badging Fees,Charges for Services
+456256,NewSrack Permit and Decal Fees,Charges for Services
+456260,Oper Recov & Refunds,Charges for Services
+456265,Municipal Setting Designation Application,Charges for Services
+456515,Defensive Driving Fees,Charges for Services
+456520,Housing Code Inspection Fees,Charges for Services
+458010,Wastewater Impact Fees,Charges for Services
+458020,Water Impact Fees,Charges for Services
+457010,Interfund Land Acquisition,Direct Interfund Services
+457020,Interfund Communication Equipment Repair,Direct Interfund Services
+457030,Interfund Billing & Collection Service,Direct Interfund Services
+457040,Interfund Fleet Maintenance,Direct Interfund Services
+457050,Interfund Utility Services,Direct Interfund Services
+457060,Interfund Electricity,Direct Interfund Services
+457070,Interfund Temporary Personnel,Direct Interfund Services
+457080,Interfund Employee Training Materials,Direct Interfund Services
+451010,Interfund Billing-Workers' Comp Admin,Direct Interfund Services
+451015,Interfund Billing-Workers' Comp Claims,Direct Interfund Services
+451020,Interfund Billing-Telephone,Direct Interfund Services
+451030,Interfund Natural Gas,Direct Interfund Services
+451040,Interfund Postage,Direct Interfund Services
+451050,Interfund Lab Services,Direct Interfund Services
+451060,Interfund Print Shop Operations,Direct Interfund Services
+424010,Interfund Electrical Maintenance,Direct Interfund Services
+424020,Interfund Engineering Services,Direct Interfund Services
+424030,Intfd Computer Dev,Direct Interfund Services
+424040,Interfund 311,Direct Interfund Services
+424050,Interfund Fire Protection Services,Direct Interfund Services
+424060,Interfund Airport Police Services,Direct Interfund Services
+424070,Interfund Legal Services,Direct Interfund Services
+424080,Interfund Payroll Services,Direct Interfund Services
+424100,Intfd IT Network Svc,Direct Interfund Services
+424110,Other Interfund Services,Direct Interfund Services
+424120,Interfund Vehicle Fuel,Direct Interfund Services
+424130,Interfund Vehicle Repair,Direct Interfund Services
+424140,Interfund Inventory,Direct Interfund Services
+424150,Interfund Auditing Services-601,Direct Interfund Services
+424160,Interfund Affirmative Action Services,Direct Interfund Services
+429010,Interfund Billing - Long Term Disability,Direct Interfund Services
+416010,Electricity Franchise Tax,Electric Franchise
+416020,Miscellaneous Franchise Fee,Electric Franchise
+418010,Natural Gas Franchise Tax,Gas Franchise
+419100,Natural Gas Franchise Fees-Prior Year,Gas Franchise
+411010,Incremental Property Tax,General Property Taxes
+411020,Current Property Tax,General Property Taxes
+411030,Current Year Delinquent Property Tax,General Property Taxes
+411040,Delinquent Property Tax - Prior Years,General Property Taxes
+411050,Prior Year Delinquent Property Tax-1992,General Property Taxes
+411060,Prior Year Delinquent Property Tax-1993,General Property Taxes
+411070,Prior Year Delinquent Property Tax-1994,General Property Taxes
+411080,Prior Year Delinquent Property Tax-1995,General Property Taxes
+411090,Prior Year Delinquent Property Tax-1996,General Property Taxes
+411100,Prior Year Delinquent Property Tax-1997,General Property Taxes
+411110,Prior Year Delinquent Property Tax-1998,General Property Taxes
+411120,Prior Year Delinquent Property Tax-1999,General Property Taxes
+411130,Prior Year Delinquent Property Tax-2000,General Property Taxes
+411140,Prior Year Delinquent Property Tax-2001,General Property Taxes
+411150,Prior Year Delinquent Property Tax-2002,General Property Taxes
+411160,Prior Year Delinquent Property Tax-2003,General Property Taxes
+411170,Prior Year Delinquent Property Tax-2004,General Property Taxes
+411171,Prior Year Delinquent Property Tax-2005,General Property Taxes
+411172,Prior Year Delinquent Property Tax-2006,General Property Taxes
+411173,Prior Year Delinquent Property Tax-2007,General Property Taxes
+411174,Prior Year Delinquent Property Tax-2008,General Property Taxes
+411175,Prior Year Delinquent Property Tax-2009,General Property Taxes
+411176,Prior Year Delinquent Property Tax-2010,General Property Taxes
+411177,Prior Year Delinquent Property Tax-2011,General Property Taxes
+411178,Prior Year Delinquent Property Tax-2012,General Property Taxes
+411180,Current Delinquent - P & I,General Property Taxes
+411190,Penalty&Interest-Delinq. Property Tax,General Property Taxes
+411200,Property Tax Refunds,General Property Taxes
+411210,Property Tax Rebates,General Property Taxes
+411220,Unclaimed Refunds of Property Tax,General Property Taxes
+425010,Indirect Cost Recovery-Aviation,Indirect Interfund Services
+425020,Indirect Cost Recovery - Civic Center,Indirect Interfund Services
+425030,Indirect Cost-CUS Fund,Indirect Interfund Services
+425040,Indirect Cost-Houston Area Lib Auto NetWork,Indirect Interfund Services
+425050,Indirect Cost Recovery-Auto Dealers,Indirect Interfund Services
+425060,Indirect Cost Recover -Public TV,Indirect Interfund Services
+425070,Indirect Cost-Building  Inspection,Indirect Interfund Services
+425080,Indirect Cost Recovery-Street & Drainage,Indirect Interfund Services
+425090,Indirect Cost Recovery-911 Emergency,Indirect Interfund Services
+425100,Indirect Cost Recovery-Other,Indirect Interfund Services
+425110,Indirect Cost Recovery-Grants,Indirect Interfund Services
+425120,PWE Allocated Cost Recovery,Indirect Interfund Services
+451070,Indirect Cost Recovery Metro,Indirect Interfund Services
+415010,Industrial District Assessment,Industrial Assessment
+422170,Interest/Affordable Housing Repayment,Interest
+422180,Interest - Special Development Projects,Interest
+422190,Interest -Microloans,Interest
+422200,Interest Payment SBL Loans,Interest
+422210,Int-Pymt HHIP Loans,Interest
+422220,Interest/Rental Rehab Repayment,Interest
+432010,Interest on Pooled Investments,Interest
+432015,Gain or Loss-Investment Market Adjust.,Interest
+432020,Interest Apportionment Transfer In,Interest
+433010,Houston Passenger Facility Charges,Interest
+434130,Gain/Loss on Investment Sale,Interest
+434140,Swap Interest Payment,Interest
+429095,Medicare Part D Distribution,Intergovernmental
+429100,PPO Medical Plan - Stop Loss Reimburseme,Intergovernmental
+429110,Active Employee Health Surcharge,Intergovernmental
+431010,Petroleum Storage Tank Reimbursement,Intergovernmental
+423010,Other Grant Awards,Intergovernmental
+422010,Medicaid Title XIX,Intergovernmental
+422020,Medicaid Title XX,Intergovernmental
+422025,Family Planning Fee for Service,Intergovernmental
+422030,Department of Transportation Grants,Intergovernmental
+422040,Federal Emergency Mgmt Agency Grants,Intergovernmental
+422050,USDA Grants,Intergovernmental
+422060,Department of Commerce Grants,Intergovernmental
+422070,Environmental Protection Agency GRANTS,Intergovernmental
+422080,US HHS Grants,Intergovernmental
+422090,HUD Grants,Intergovernmental
+422100,Department of Justice Grants,Intergovernmental
+422110,Criminal Justice Division Grant Awards,Intergovernmental
+422120,Parks & Wildlife Grant Awards,Intergovernmental
+422122,Municipal Service Fees - TIRZ,Intergovernmental
+422130,Unearned Grant Revenue,Intergovernmental
+422140,Metro Grant Awards,Intergovernmental
+422141,Intergovernmental Revenue - TIRZ,Intergovernmental
+422150,Intergovernmental Revenue - Metro,Intergovernmental
+422153,Intergovernmental Revenue - 1115 Waiver,Intergovernmental
+422155,Intergovernmental Revenue - Other,Intergovernmental
+422160,Billings to Grants,Intergovernmental
+421350,Site Inspection Fees,Licenses and Permits
+421360,Electrical Shop Fees,Licenses and Permits
+421370,Sign Operation Fees,Licenses and Permits
+421371,Sign Op Fee-Off Perm,Licenses and Permits
+421372,Sign Op Fee-Off Perm,Licenses and Permits
+421373,Sign Operation Fees-New Operating-City,Licenses and Permits
+421374,Sign Op Fee-On Perm,Licenses and Permits
+421380,Sign Contractor Licenses,Licenses and Permits
+421400,Miscellaneous Sign Fees,Licenses and Permits
+421410,Permit Preparation Fees,Licenses and Permits
+421420,A/C Boiler Cons Prmt,Licenses and Permits
+421440,Elevator Permits,Licenses and Permits
+421450,House Moving Permits,Licenses and Permits
+421460,Mobile Home Permits,Licenses and Permits
+421480,Reinspections Fees,Licenses and Permits
+421490,Plan Review Fees,Licenses and Permits
+421491,Plan Review - Per Sheet Fee,Licenses and Permits
+421500,Electrical Permits,Licenses and Permits
+421510,Plumbing Permits,Licenses and Permits
+421530,Special Event Permits,Licenses and Permits
+421540,Closed Use Permits,Licenses and Permits
+421550,Street Cut Permit,Licenses and Permits
+421560,Flood Plain Dev Prmt,Licenses and Permits
+421570,Limousine Permits,Licenses and Permits
+421580,Charter Bus Permits,Licenses and Permits
+421590,Right-of-way Permits,Licenses and Permits
+421600,Jitney Permit & Inspection Fees,Licenses and Permits
+421610,Low Speed Shuttle Permit/Inspection Fees,Licenses and Permits
+421620,Pedicab Permits & Inspection Fees,Licenses and Permits
+421630,Administrative Fee - Licenses & Permits,Licenses and Permits
+421640,LED Changeable Message Sign,Licenses and Permits
+421700,Multi-Family Rental Building Inspections,Licenses and Permits
+419080,Encroachment Franchise Fee,Licenses and Permits
+419060,Pipeline & Conduits Franchise Fee,Licenses and Permits
+419020,Limousine Franchise Tax,Licenses and Permits
+421010,Special Food Permits,Licenses and Permits
+421020,Food Dealers Permits,Licenses and Permits
+421030,Food Managers Permits,Licenses and Permits
+421040,Mobile Food Vendor Licenses,Licenses and Permits
+421050,Liquid Waste Transport Permits,Licenses and Permits
+421060,Miscellaneous Health Permits,Licenses and Permits
+421070,Swimming Pool Operating Permits,Licenses and Permits
+421080,Rabies Control Licenses,Licenses and Permits
+421090,Ambulance Permits,Licenses and Permits
+421100,Occupation Licenses,Licenses and Permits
+421110,Sexually Oriented Business Permits,Licenses and Permits
+421120,Beer & Wine Licenses,Licenses and Permits
+421130,Decals for Coin-Ope.Amusement Machines,Licenses and Permits
+421140,Dance Licenses,Licenses and Permits
+421150,Liquor Licenses,Licenses and Permits
+421160,Mixed Beverage Licenses,Licenses and Permits
+421161,Auto Dealers Licenses,Licenses and Permits
+421162,Electric Signs Fee,Licenses and Permits
+421170,Burglar Alarm Permits,Licenses and Permits
+421180,Special Fire Permits,Licenses and Permits
+421190,Construction Permits,Licenses and Permits
+421200,Other Building & Construction Permits,Licenses and Permits
+421210,Fire Alarm Permits,Licenses and Permits
+421220,School Bus Licenses & Permits,Licenses and Permits
+421230,Taxicab Licenses & Permits,Licenses and Permits
+421240,Wrecker Licenses & Permits,Licenses and Permits
+421250,Valet Parking Operator Permits,Licenses and Permits
+421260,Bicycle Registration,Licenses and Permits
+421270,City Election Fees,Licenses and Permits
+421280,Other Licenses & Permits,Licenses and Permits
+421290,Tower Application Review Fee,Licenses and Permits
+421300,Facility Permits,Licenses and Permits
+421310,Mobility Permits,Licenses and Permits
+421320,Dumpster Permits,Licenses and Permits
+456105,Oil and Gas Well Permits,Licenses and Permits
+456110,Stormwater Quality Mgmt Permits,Licenses and Permits
+456115,Industrial Waste Discharge Permits,Licenses and Permits
+456120,Development Permits,Licenses and Permits
+456255,Misc Operating Revenue,Miscellaneous/Other
+434250,Sale of Capital Assets-Intergovernmental,Miscellaneous/Other
+434255,Sale of Recyclable Materials,Miscellaneous/Other
+434305,Judgments & Claims,Miscellaneous/Other
+434310,Overpayments - Grieve Intl,Miscellaneous/Other
+434315,Reimbursement of Court Costs,Miscellaneous/Other
+434320,Oil & Gas Royalties,Miscellaneous/Other
+434325,Recapture of Home Loan Revenue,Miscellaneous/Other
+434330,Subrogations,Miscellaneous/Other
+434335,Recover Damage-Infrastructure,Miscellaneous/Other
+434340,Cashier Overages,Miscellaneous/Other
+434345,Adjustment to Allowances,Miscellaneous/Other
+434350,Miscellaneous Services Palm Center,Miscellaneous/Other
+434355,Pay or Play Revenue,Miscellaneous/Other
+434405,Principal Payment SBL Loans,Miscellaneous/Other
+434410,Principal Payment HHIP Loans,Miscellaneous/Other
+434415,Principal Payment Top Loans,Miscellaneous/Other
+434420,Prin Pymt-Rent Rehab,Miscellaneous/Other
+434425,Principal Affordable Housing Payment,Miscellaneous/Other
+434430,Principal Special Development Projects,Miscellaneous/Other
+434434,Principal Microloans,Miscellaneous/Other
+434505,Prior Year Expenditure Recovery,Miscellaneous/Other
+434510,Prior Year Revenue,Miscellaneous/Other
+434515,Street Milling Sale Earnings,Miscellaneous/Other
+434120,Other Fees SBRL,Miscellaneous/Other
+435110,Public Improvement District Assessment,Miscellaneous/Other
+435510,Confiscations,Miscellaneous/Other
+456505,Fixed Assets Gain/Loss Account,Miscellaneous/Other
+456510,Sale of Inventory,Miscellaneous/Other
+451080,Interfund Billing Fleet,Miscellaneous/Other
+451090,Interfund Billing Information Technology,Miscellaneous/Other
+452010,Release of Special Deposits,Miscellaneous/Other
+452020,Recoveries & Refunds,Miscellaneous/Other
+452030,Miscellaneous Revenue,Miscellaneous/Other
+457090,ENT-Geographic Information System,Miscellaneous/Other
+456525,General Obligation Bond Proceeds,Miscellaneous/Other
+456530,Revenue Bond Proceeds,Miscellaneous/Other
+456535,Tax Increment Bond Proceeds,Miscellaneous/Other
+456540,Proceeds of Certificate of Obligation,Miscellaneous/Other
+456545,Proceeds of Commercial Paper,Miscellaneous/Other
+456550,Proceeds from TWD Board Loan,Miscellaneous/Other
+458030,Impact Fee Transfer,Miscellaneous/Other
+459010,Arbitrage Rebate Recoveries,Miscellaneous/Other
+462999,Gain-SoA-Rev. Clrng ,Miscellaneous/Other
+451000,Escrow Deposit-Bond refunding,Miscellaneous/Other
+431020,Contributions from Others,Miscellaneous/Other
+431030,Donated/Seized Asset Additions,Miscellaneous/Other
+434150,Streets & Bridges Assessments,Miscellaneous/Other
+434160,Fixed Asset Adjustments ,Miscellaneous/Other
+434205,Sale of Scrap Metal,Miscellaneous/Other
+434210,Sale of Scrap Oil & Tires,Miscellaneous/Other
+434215,Sale of Non-Capital Rolling Stock,Miscellaneous/Other
+434220,Sale of Impounded Vehicles,Miscellaneous/Other
+434225,Sale of Non-Capital Equip. & Merchandise,Miscellaneous/Other
+434230,Animal Adoption,Miscellaneous/Other
+429020,Active Employees-City Insurance Contrib.,Miscellaneous/Other
+429030,Retirees - City Insurance Contribution,Miscellaneous/Other
+429040,Active Employees-Insurance Contribution,Miscellaneous/Other
+429050,Active Employees Dependent Care,Miscellaneous/Other
+429055,Active Employees-Health Flex Account,Miscellaneous/Other
+429060,Active Employees-LWOP Contribution,Miscellaneous/Other
+429070,Cobra Contributions,Miscellaneous/Other
+429080,Retirees Insurance Contribution,Miscellaneous/Other
+429090,Medical Part D Subsidy,Miscellaneous/Other
+444010,Private Contributions,Miscellaneous/Other
+444020,PEG Contributions - Ongoing Support,Miscellaneous/Other
+444030,PEG Contributions - State Franchises,Miscellaneous/Other
+427010,Moving Violations,Municipal Courts Fines and Forfeits
+427020,Parking Violations,Municipal Courts Fines and Forfeits
+427030,MCTP Monthly Time Payment ,Municipal Courts Fines and Forfeits
+427040,Non-Traffic Fines,Municipal Courts Fines and Forfeits
+427050,Failure to Appear Fines,Municipal Courts Fines and Forfeits
+427060,Scire Facias Forfeitures,Municipal Courts Fines and Forfeits
+427070,Bond Handling Fees,Municipal Courts Fines and Forfeits
+427080,Municipal Courts Technology,Municipal Courts Fines and Forfeits
+427090,Residential Parking Permit,Municipal Courts Fines and Forfeits
+427100,Local Court Costs,Municipal Courts Fines and Forfeits
+427110,Driver Safety Administration Fees,Municipal Courts Fines and Forfeits
+427120,Cash Bond Forfeiture Fees,Municipal Courts Fines and Forfeits
+427130,Local Arrest Fees,Municipal Courts Fines and Forfeits
+427140,State Arrest Fees,Municipal Courts Fines and Forfeits
+427150,Towing Hearing Filing Fee,Municipal Courts Fines and Forfeits
+427160,Warrant Fees,Municipal Courts Fines and Forfeits
+427170,HPD Overtime Fee,Municipal Courts Fines and Forfeits
+427180,Capias Pro Fine,Municipal Courts Fines and Forfeits
+427190,Empanel Fee,Municipal Courts Fines and Forfeits
+427200,Unclaimed Fines & Forfeitures,Municipal Courts Fines and Forfeits
+427210,Court Costs/Jury Costs,Municipal Courts Fines and Forfeits
+427220,Suspended Sentence Fees,Municipal Courts Fines and Forfeits
+427230,Boot Fees,Municipal Courts Fines and Forfeits
+427240,Administrative Boot Fees,Municipal Courts Fines and Forfeits
+427250,Registration Denial Fee,Municipal Courts Fines and Forfeits
+427260,Dismissal Fees,Municipal Courts Fines and Forfeits
+427270,Juvenile Case Manager Revenue,Municipal Courts Fines and Forfeits
+427280,In-House Collection Fee,Municipal Courts Fines and Forfeits
+428010,Deposit Forfeitures,Other Fines and Forfeits
+428020,Library Fines,Other Fines and Forfeits
+428030,Release of Liens,Other Fines and Forfeits
+428040,Vehicle Tow-Away Fees,Other Fines and Forfeits
+428050,False Alarm Penalties,Other Fines and Forfeits
+428060,Other Interest Income,Other Fines and Forfeits
+428070,Penalties on Development Loans,Other Fines and Forfeits
+428080,Returned Check Charges,Other Fines and Forfeits
+428090,Miscellaneous Fines & Forfeitures,Other Fines and Forfeits
+428095,Red Light Enforcement,Other Fines and Forfeits
+428097,Sexual Asault Forensic Evaluation Fee,Other Fines and Forfeits
+428100,Interest on Liens-COH,Other Fines and Forfeits
+428105,Interest on Liens-Contract,Other Fines and Forfeits
+434110,Other Fees HHIP Loans,Other Fines and Forfeits
+421330,Impounded Sign Fees,Other Franchise
+421340,Sign Construction Fees,Other Franchise
+419030,Charter Tours & Sight Franchise Tax,Other Franchise
+419040,Solid Waste Hauler Franichise Fee,Other Franchise
+419050,Spur Track Franchise Fee,Other Franchise
+419070,Fiber Optics Franchise Fee,Other Franchise
+419010,Cable TV Franchise Tax,Other Franchise
+419110,Cable TV Franchise Fees-Prior Year,Other Franchise
+419120,Solid Waste Franchise Fees-Prior Year,Other Franchise
+421520,Heliport/Helistop Inspection Fees,Other Franchise
+421470,Occupancy Fees,Other Franchise
+421430,Annual Boiler Fees,Other Franchise
+421390,Sign Plan Examination Fees,Other Franchise
+434235,Sale of Capital Assets,Other Resources
+434240,Sale of Capital Assets-Land/Streets,Other Resources
+434245,Sale of Capital Assets - Vehicles,Other Resources
+490010,Transfer from General Fund,Other Resources
+490020,Transfer from Special Revenue Fund,Other Resources
+490030,Transfer from Debt Service Fund,Other Resources
+490040,Transfer from Water & Sewer Fund,Other Resources
+490050,Transfer from Aviation Fund,Other Resources
+490060,Transfer from Civic Center,Other Resources
+490070,Transfer from Capital Project Fund,Other Resources
+490080,Other Operating Transfers In,Other Resources
+490090,Transfer from Combined Utility Operating,Other Resources
+490100,Transfer from Combined Utility General,Other Resources
+490110,Transfer from Grant,Other Resources
+490120,Transfer from Component Unit,Other Resources
+490130,Transfer from Consolidating Funds,Other Resources
+490140,Transfer from Parking Management,Other Resources
+490150,Transfer from internal Service Fund,Other Resources
+490160,Transer from Rainy Day fund - Hurr Ike,Other Resources
+456555,Proceeds from Promissory Notes,Other Resources
+456560,Liquidated Damages,Other Resources
+434520,Pension Obligation Bond Proceeds,Other Resources
+449110,Hotel Occupancy Tax,Other Tax 
+449510,Delinquent Hotel Occupancy Tax,Other Tax 
+413010,Mixed Beverage Tax,Other Tax 
+414010,Bingo Tax,Other Tax 
+412010,Sales Tax,Sales Taxes
+417010,Telephone Franchise Tax,Telephone Franchise
+419090,Telecomm Franchise Fees - Prior Year,Telephone Franchise
