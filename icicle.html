@@ -1,0 +1,77 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Houston Budget &raquo; Icicle</title>
+  <base href="http://oakmac.com/houston_budget/" />
+  <link rel="stylesheet" href="css/foundation-3.2.5.min.css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold|Droid+Sans+Mono" />
+  <link type="text/css" rel="stylesheet/less" href="css/site.less" />
+  <link type="text/css" rel="stylesheet" href="css/icicle.css" />
+  <script src="css/less-1.3.0.min.js"></script>  
+  
+  <style>
+  #chart_container {
+    /* border: 1px solid black; */
+    height: 700px;
+  }
+  </style>
+</head>
+<body>
+
+<div class="contain-to-grid">
+<div class="top-bar">
+<ul>
+  <li class="name"><h1><a href="">HoustonBudget.Info</a></h1></li>
+</ul>
+<ul class="right">
+  <li class="divider"></li>
+  <li class="active"><a href="">Home</a></li>
+  <li class="divider"></li>
+  <li><a href="data">Data</a></li>
+  <li class="divider"></li>
+  <li><a href="links">Links</a></li>
+  <li class="divider"></li>
+  <li><a href="about">About</a></li>
+  <li class="divider"></li>
+</ul>
+</div>
+</div>
+
+<div class="row" id="body_container">
+<div class="twelve columns">
+  
+
+    <ul class="button-group">
+      <li><a href="#" class="button">FY 2009</a></li>
+      <li><a href="#" class="secondary button">FY 2010</a></li>
+      <li><a href="#" class="secondary button">FY 2011</a></li>
+      <li><a href="#" class="secondary button">FY 2012</a></li>
+      <li><a href="#" class="secondary button">FY 2013</a></li>
+    </ul>
+
+  <div id="chart_container"></div>
+
+</div><!-- end div.twelve.columns -->
+</div><!-- end div#body_container -->
+
+<div id="footer">
+<div class="row">
+  <div class="six columns" id="left_footer">
+    <p>built by <a href="mailto:chris@oakmac.com">Chris Oakman</a></p>    
+  </div>
+  <div class="six columns" id="right_footer">
+    <a href="">Home</a>
+    <a href="data">Data</a>
+    <a href="links">Links</a>
+    <a href="about">About</a>
+  </div>
+</div>
+</div><!-- end div#footer -->
+
+<script src="js/json3.min.js"></script>
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/jit-2.0.1.min.js"></script>
+<script src="js/icicle.js"></script>
+
+</body>
+</html>
