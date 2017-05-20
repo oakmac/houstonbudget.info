@@ -1,9 +1,25 @@
 {
   "name": "budget",
-  "children":[
-  {"name": "Public Safety","size":1417290061},
-  {"name": "Development and Maintenance Services","size":2016190797},
-  {"name": "Human and Cultural Services","size":328440064},
-  {"name": "Administrative Services","size":173722689},
-  {"name": "Other","size":1048412267},
-]}
+  "children": [
+    {
+      "name": "Public Safety",
+      "size": 1417290061
+    },
+    {
+      "name": "Development and Maintenance Services",
+      "size": 2016190797
+    },
+    {
+      "name": "Human and Cultural Services",
+      "size": 328440064
+    },
+    {
+      "name": "Administrative Services",
+      "size": 173722689
+    },
+    {
+      "name": "Other",
+      "size": 1048412267
+    }
+  ]
+}
