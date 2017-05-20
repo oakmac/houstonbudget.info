@@ -1,3 +1,4 @@
 node_modules
 public/css/main.min.css
 public/js/app.js
+*.diff
