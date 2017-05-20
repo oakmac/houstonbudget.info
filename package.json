@@ -10,6 +10,7 @@
   "dependencies": {
     "grunt": "1.0.1",
     "grunt-contrib-less": "1.4.0",
-    "grunt-contrib-watch": "1.0.0"
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-contrib-concat": "1.0.1"
   }
 }
