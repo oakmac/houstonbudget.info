@@ -1,0 +1,15 @@
+{
+  "author": "Chris Oakman <chris@oakmac.com> (http://chrisoakman.com/)",
+  "name": "houstonbudget.info",
+  "homepage": "https://github.com/oakmac/houstonbudget.info",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oakmac/houstonbudget.info.git"
+  },
+  "dependencies": {
+    "grunt": "1.0.1",
+    "grunt-contrib-less": "1.4.0",
+    "grunt-contrib-watch": "1.0.0"
+  }
+}
