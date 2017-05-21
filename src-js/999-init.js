@@ -21,8 +21,8 @@
 
   function init () {
     addEvents()
-    fetchTreemap('treemapLeft', 'data/2017-budget-treemap.json')
-    fetchTreemap('treemapRight', 'data/2016-budget-treemap.json')
+    fetchTreemap('treemapLeft', 'data/2016-budget-treemap.json')
+    fetchTreemap('treemapRight', 'data/2017-budget-treemap.json')
   }
 
   init()
