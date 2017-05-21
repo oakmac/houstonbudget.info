@@ -3,23 +3,28 @@
   "children": [
     {
       "name": "Public Safety",
-      "size": 1417290061
+      "priorYearActual": 1340899506,
+      "budget":1435423160
     },
     {
       "name": "Development and Maintenance Services",
-      "size": 2016190797
+      "priorYearActual": 1866718367,
+      "budget":2119404570
     },
     {
       "name": "Human and Cultural Services",
-      "size": 328440064
+      "priorYearActual": 315328694,
+      "budget":335066710
     },
     {
       "name": "Administrative Services",
-      "size": 173722689
+      "priorYearActual": 156080393,
+      "budget":175163981
     },
     {
       "name": "Other",
-      "size": 1048412267
+      "priorYearActual": 990569352,
+      "budget":1054629200
     }
   ]
 }
