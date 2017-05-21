@@ -22,6 +22,9 @@ python -m SimpleHTTPServer
 
 ## Links
 
+- http://www.houstontx.gov/budget/
+- http://performance.houstontx.gov/budgetbootcamp
+- http://performance.houstontx.gov/performanceinsight
 - http://data.ohouston.org/dataset/city-of-houston-fiscal-year-adopted-operating-budgets
 
 ## Team Members
