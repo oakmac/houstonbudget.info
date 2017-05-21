@@ -2,8 +2,6 @@
   window.HOUSTON_BUDGET = window.HOUSTON_BUDGET || {}
   var d3 = window.d3
 
-  // NOTE: modified from https://bl.ocks.org/mbostock/4063582
-
   // ---------------------------------------------------------------------------
   // Util
   // ---------------------------------------------------------------------------
@@ -12,12 +10,12 @@
     return d3.interpolateRgb(color, '#fff')(0.2)
   }
 
-  function sumByCount (d) {
-    return d.children ? 0 : 1
+  function sumByBudget (d) {
+    return d.currentYearBudget
   }
 
-  function sumBySize (d) {
-    return d.size
+  function sumByPriorYearActual (d) {
+    return d.priorYearActual
   }
 
   function sortNode (a, b) {
@@ -29,6 +27,8 @@
   // ---------------------------------------------------------------------------
 
   var treemaps = {}
+  var roots = {}
+  var cells = {}
 
   function createTreemap (svgId, data) {
     var svgEl = document.getElementById(svgId)
@@ -36,6 +36,7 @@
     // sanity check
     if (!svgEl || svgEl.tagName.toLowerCase() !== 'svg') {
       window.alert('Please pass a valid <svg> element id to createTreemap()')
+      return
     }
 
     var svg = d3.select(svgEl)
@@ -52,7 +53,7 @@
 
     var root = d3.hierarchy(data)
       .eachBefore(function (d) { d.data.id = (d.parent ? d.parent.data.id + '.' : '') + d.data.name })
-      .sum(sumBySize)
+      .sum(sumByBudget)
       .sort(sortNode)
 
     treemap(root)
@@ -82,35 +83,31 @@
       .attr('y', function (d, i) { return 13 + i * 10 })
       .text(function (d) { return d })
 
-    cell.append('title')
-      .text(function (d) { return d.data.id + '\n' + format(d.value) })
+    // TODO: make this more valuable
+    // cell.append('title')
+    //   .text(function (d) { return d.data.id + '\n' + format(d.value) })
 
-    // d3.selectAll('input')
-    //   .data([sumBySize, sumByCount], function (d) { return d ? d.name : this.value })
-    //   .on('change', changed)
-
-    // var timeout = d3.timeout(function () {
-    //   d3.select('input[value="sumByCount"]')
-    //     .property('checked', true)
-    //     .dispatch('change')
-    // }, 2000)
-
-    // function changed (sum) {
-    //   timeout.stop()
-    //
-    //   treemap(root.sum(sum))
-    //
-    //   cell.transition()
-    //     .duration(750)
-    //     .attr('transform', function (d) { return 'translate(' + d.x0 + ',' + d.y0 + ')' })
-    //   .select('rect')
-    //     .attr('width', function (d) { return d.x1 - d.x0 })
-    //     .attr('height', function (d) { return d.y1 - d.y0 })
-    // }
+    treemaps[svgId] = treemap
+    roots[svgId] = root
+    cells[svgId] = cell
   }
 
-  function transitionTreeMap (treemapId, somethingElse) {
+  function transitionTreeMap (treemapId, sumMode) {
+    var sumFn = sumByBudget
+    if (sumMode === 'priorYearActual') sumFn = sumByPriorYearActual
 
+    var treemap = treemaps[treemapId]
+    var root = roots[treemapId]
+    var cell = cells[treemapId]
+
+    treemap(root.sum(sumFn))
+
+    cell.transition()
+      .duration(750)
+      .attr('transform', function (d) { return 'translate(' + d.x0 + ',' + d.y0 + ')' })
+    .select('rect')
+      .attr('width', function (d) { return d.x1 - d.x0 })
+      .attr('height', function (d) { return d.y1 - d.y0 })
   }
 
   window.HOUSTON_BUDGET.createTreemap = createTreemap
